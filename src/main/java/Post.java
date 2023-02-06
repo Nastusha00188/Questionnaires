@@ -5,7 +5,6 @@ public class Post {
     public String phone;
     public String surname;
     public boolean subscription;
-    public String birthday = "birthdayDay" + "birthdayMonth" + "birthdayYear";
-
+    public FormDate birthday;
 
 }
